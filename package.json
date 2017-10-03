@@ -1,6 +1,6 @@
 {
   "name": "largest-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript Package for finding the largest element of an array.",
   "main": "largest.js",
   "scripts": {

@@ -34,7 +34,7 @@ A JavaScript Package for finding the largest element of an array.
 
 ```js
 
-const large = require('./largest');
+const large = require('largest-element');
 
 large([1,2,10,1,2,3,{},[]]);
 //=> 10
