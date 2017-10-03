@@ -22,12 +22,12 @@ A JavaScript Package for finding the largest element of an array.
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/largest-element/master/largest.js"></script>
 ```
 
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/largest-element/98a44f04/largest.js"></script>
 ```
 
 ## Usage

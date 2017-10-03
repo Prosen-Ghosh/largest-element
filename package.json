@@ -16,7 +16,9 @@
     "greatest",
     "array",
     "element",
-    "number"
+    "number",
+    "list",
+    "find"
   ],
   "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
   "license": "MIT",
